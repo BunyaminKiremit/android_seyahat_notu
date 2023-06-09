@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1093608005305",
+    "project_id": "bootcamp-turkcell",
+    "storage_bucket": "bootcamp-turkcell.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093608005305:android:157a213ca662fb49908568",
+        "android_client_info": {
+          "package_name": "com.example.bunyamin_kiremit_9"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093608005305-4ckj0rhl2rhnmkudhtmsaavv2o0cjjg0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bunyamin_kiremit_9",
+            "certificate_hash": "37fa98a663fb201e38a94ada150b667adf73530e"
+          }
+        },
+        {
+          "client_id": "1093608005305-laqanumiqik4tr2un54h4irtvpr0atn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm-lwm9TcetfRMY-No2PUbTGCK3kj7njY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093608005305-laqanumiqik4tr2un54h4irtvpr0atn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
